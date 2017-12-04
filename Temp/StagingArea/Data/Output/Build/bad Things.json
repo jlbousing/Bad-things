@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "bad Things.data.unityweb",
+"asmCodeUrl": "bad Things.asm.code.unityweb",
+"asmMemoryUrl": "bad Things.asm.memory.unityweb",
+"asmFrameworkUrl": "bad Things.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
